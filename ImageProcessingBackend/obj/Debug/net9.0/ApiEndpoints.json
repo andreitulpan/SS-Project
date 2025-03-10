@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ImageProcessingBackend.Controllers.ImageController",
+    "Method": "GetAllImages",
+    "RelativePath": "api/images",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
